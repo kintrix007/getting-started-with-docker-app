@@ -73,6 +73,8 @@ possible to run `yarn install` there.
 
 [This code snippet from The Wagner](https://github.com/wagdav/thewagner.net/blob/fcda05cf33ca24ed97a0a71a9139de72ecdc90c9/flake.nix#L52-L75)
 
+["Docker on NixOS" on the NixOS Wiki](https://nixos.wiki/wiki/Docker)
+
 ## And some less strictly related resources
 
 These resources are not strictly related to Docker, however they are the
